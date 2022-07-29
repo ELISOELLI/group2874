@@ -1,19 +1,21 @@
 # markdown
-bold text-**
-kursiv text-*
-strikthough text(zacherknuti)-
-highlight the title at the begining at the line-#
-number list are indicated by numbers-1,2,3
-*-unnumber lists
-nested lists-perform indentation(vlogennie spiski vipolniaem otstupi
-UROVEN ZAGILIVKA=OR -
+1. bold text-**
+2. kursiv text-*
+3. strikthough text(zacherknuti)- ~
+4. highlight the title at the begining at the line-#
+ 5. number list are indicated by numbers-1,2,3
+6. *-unnumber lists
+7. nested lists-perform indentation(vlogennie)
+8.  spiski vipolniaem otstupi
+9. UROVEN ZAGILIVKA=OR -
 
 
 # CIT COMMANDS
- GIT INIT -DELAET REPOZITORII
- GIT ADD FILE  DOBAVIM FILE K OTSLEJIVANIU GITOM
-GIT COMMIT-SOXRANIAET TEKUSHEE SOSTOIANIE I PISHEM TEXT CHTO V ETOM FALE PROISXODIT
-GIT DIFF-OTLICHIE TEKUSHEGO FAILA OT TOGO CHO SOXRANENO
+ * GIT INIT -DELAET REPOZITORII
+ * GIT ADD FILE  DOBAVIM FILE K OTSLEJIVANIU GITOM
+* GIT COMMIT-SOXRANIAET TEKUSHEE SOSTOIANIE I 
+*  PISHEM TEXT CHTO V ETOM FALE PROISXODIT
+* GIT DIFF-OTLICHIE TEKUSHEGO FAILA OT TOGO CHO SOXRANENO
 GIT LOG-JURNAL VSEX IZMENENII
 GIT CHECKOUGT-PEREMESHENIE MEJDU VETKAMISOZDANNIMI COMANDOI GIT BRANCH
 GIT MERGE-SLIANIE VOEDINO RAZVETVLENNUU VETV DEDINUIU VETV
