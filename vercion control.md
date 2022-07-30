@@ -1,4 +1,4 @@
-# markdown
+# markdown     izmenenia eto 
 1. bold text-**
 2. kursiv text-*
 3. strikthough text(zacherknuti)- ~
