@@ -1,0 +1,15 @@
+/Users/eliso/Desktop/Новая папка 2/lesson1/bin/Debug/net6.0/lesson1
+/Users/eliso/Desktop/Новая папка 2/lesson1/bin/Debug/net6.0/lesson1.deps.json
+/Users/eliso/Desktop/Новая папка 2/lesson1/bin/Debug/net6.0/lesson1.runtimeconfig.json
+/Users/eliso/Desktop/Новая папка 2/lesson1/bin/Debug/net6.0/lesson1.dll
+/Users/eliso/Desktop/Новая папка 2/lesson1/bin/Debug/net6.0/lesson1.pdb
+/Users/eliso/Desktop/Новая папка 2/lesson1/obj/Debug/net6.0/lesson1.csproj.AssemblyReference.cache
+/Users/eliso/Desktop/Новая папка 2/lesson1/obj/Debug/net6.0/lesson1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eliso/Desktop/Новая папка 2/lesson1/obj/Debug/net6.0/lesson1.AssemblyInfoInputs.cache
+/Users/eliso/Desktop/Новая папка 2/lesson1/obj/Debug/net6.0/lesson1.AssemblyInfo.cs
+/Users/eliso/Desktop/Новая папка 2/lesson1/obj/Debug/net6.0/lesson1.csproj.CoreCompileInputs.cache
+/Users/eliso/Desktop/Новая папка 2/lesson1/obj/Debug/net6.0/lesson1.dll
+/Users/eliso/Desktop/Новая папка 2/lesson1/obj/Debug/net6.0/refint/lesson1.dll
+/Users/eliso/Desktop/Новая папка 2/lesson1/obj/Debug/net6.0/lesson1.pdb
+/Users/eliso/Desktop/Новая папка 2/lesson1/obj/Debug/net6.0/lesson1.genruntimeconfig.cache
+/Users/eliso/Desktop/Новая папка 2/lesson1/obj/Debug/net6.0/ref/lesson1.dll
